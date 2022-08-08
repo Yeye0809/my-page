@@ -1,0 +1,21 @@
+
+strong{
+     color: #024b7f;
+}
+
+
+.img-projects {
+     height: 100%;
+     width: 250px;
+     min-height: 185px;
+     min-width: 255px;
+    
+} 
+
+.img-skills {
+     margin-top: 1;
+     width: 200px;
+     height: 200px;
+     border-radius: 50%;
+     object-fit: contain;
+}
